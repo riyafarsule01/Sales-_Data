@@ -1,4 +1,4 @@
-# TASK 1 - ELEVATE LABS 
+# TASK 1: DATA CLEANING AND PREPROCESSING OF SALES DATA
 The Case of the Messy Sales Data 🕵️‍♂️
 A Data Cleaning & Preprocessing Project for the Elevate Data Analyst Internship.
 
